@@ -28,6 +28,10 @@ devtools::install_github("leoniedu/sigcpnds2022")
 
 Full documentation website on: https://leoniedu.github.io/sigcpnds2022
 
+## Documentation
+
+Full documentation website on: https://leoniedu.github.io/sigcpnds2022
+
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
@@ -35,7 +39,6 @@ This is a basic example which shows you how to solve a common problem:
 
 ```r
 library(sigcpnds2022)
-#> Error in library(sigcpnds2022): there is no package called 'sigcpnds2022'
 ## basic example code
 ```
 
